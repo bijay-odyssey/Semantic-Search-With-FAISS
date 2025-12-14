@@ -10,3 +10,5 @@ The system supports rebuilding the index from scratch, adding new documents, and
 - Performing semantic search with FAISS
 - Automatic index reloading without restarting the server
 - Clean REST endpoints and a minimal HTML UI
+
+**It is integrated with FASTAPI and built as simple webapp.**
